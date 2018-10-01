@@ -1,1 +1,3 @@
-var prime = function()
+var prime = function(num){
+    for(let i=0; i<num.lenet)
+}
